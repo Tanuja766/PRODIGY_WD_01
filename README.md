@@ -1,53 +1,87 @@
-# 🚀 PRODGY_WD_01 - Web Development Task
+# 🚀 📄 Responsive Landing Page
 
-Welcome to the **PRODIGY_WD_01** repository! This project is a part of my internship tasks for **Prodigy InfoTech**, focusing on frontend web development using HTML, CSS, and JavaScript.
+![Internship Task](https://img.shields.io/badge/Prodigy%20InfoTech-Internship%20Task-blueviolet)
 
-## 📝 Task Description
+A sleek and modern **responsive landing page** designed using HTML, CSS, and JavaScript. This landing page adapts beautifully to any screen size and demonstrates essential front-end development skills.
 
-> This project showcases my implementation of the **[Task Name or Task Number]** assigned during the internship program. The main objective is to build a **[brief description, e.g., responsive landing page / weather app / portfolio website, etc.]**.
+🌐 **Live Demo:** [wonderful-queijadas-5b93c2.netlify.app](https://wonderful-queijadas-5b93c2.netlify.app/)  
+📁 **GitHub Repository:** [PRODIGY_WD_01](https://github.com/mehul/PRODIGY_WD_01)
 
-## 📂 Folder Structure
-├── assets/ # Images, icons, or other static files
-├── css/ # Stylesheets
-│ └── style.css
-├── js/ # JavaScript files
-│ └── script.js
-├── index.html # Main HTML file
-└── README.md # Project documentation
+---
 
+## 📌 Internship Task
 
-## 🔧 Technologies Used
+> ✅ **Task 1 – Develop a Responsive Landing Page**  
+> This project was created as part of my **Web Development Internship at [Prodigy InfoTech](https://prodigyinfotech.dev/)**.  
+> It focuses on building a visually appealing and fully responsive web layout using core web technologies.
 
-- HTML5
-- CSS3
-- JavaScript
-- [Optional: Bootstrap / GSAP / jQuery / etc.]
+---
 
-## 💡 Features
+## ✨ Features
 
-- Fully responsive layout
-- Interactive user interface
-- Clean and modern design
-- [Add any feature you implemented]
+- ✅ Fully responsive design for all devices
+- 🧩 Clean, modern UI layout
+- 💡 Smooth transitions and visual effects
+- 📱 Mobile-first design strategy
+- ⚙️ Well-structured and easy to customize
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Markup structure  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Basic interactivity (if used)  
+- **Netlify** – Hosting and deployment
+
+---
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](assets/desktop-view.png) | ![mobile](assets/mobile-view.png) |
+<!-- Add real screenshots stored in your repo -->
+<img src="https://github.com/HENRY-AIFST/PRODIGY_WD_01/blob/main/assets/screenshot.png" alt="Landing Page Screenshot" width="600"/>
 
-## 🛠️ How to Run
- git clone https://github.com/mehul00000/PRODIGY_WD_01.git
+---
 
-📅 Status
-✅ Completed
-🛠️ Open for improvements or feedback
+## 📁 Folder Structure
+PRODIGY_WD_01/
+├── assets/ # Images and icons
+├── css/ # Stylesheets
+├── js/ # JavaScript (optional)
+├── index.html # Main landing page
+└── README.md # Project documentation
 
-🤝 Acknowledgements
-Prodigy InfoTech for the opportunity and support.
+---
 
-[Any tutorial, documentation, or mentor if applicable]
+## 🚀 Getting Started (Run Locally)
 
-📬 Contact
-Mehul
-GitHub: @mehul00000
+To run this project on your local machine:
+
+```bash
+git clone https://github.com/mehul00000/PRODIGY_WD_01.git
+cd PRODIGY_WD_01
+open index.html
+
+🌱 Future Enhancements
+🌓 Dark/light mode toggle
+
+💬 Add working contact form
+
+🔗 Add smooth scrolling navigation
+
+🧾 Integrate with backend or CMS
+
+🤝 Contributions
+Contributions are welcome! Feel free to fork this repo, suggest changes, or submit a pull request.
+
+📄 License
+This project is released under the MIT License.
+
+🙌 Acknowledgements
+Prodigy InfoTech
+
+Netlify for free hosting
+
+👨‍💻 Developer
+Name: mehul00000
+Email: mehul123@gmail.com
