@@ -5,7 +5,7 @@
 A sleek and modern **responsive landing page** designed using HTML, CSS, and JavaScript. This landing page adapts beautifully to any screen size and demonstrates essential front-end development skills.
 
 🌐 **Live Demo:** [wonderful-queijadas-5b93c2.netlify.app](https://wonderful-queijadas-5b93c2.netlify.app/)  
-📁 **GitHub Repository:** [PRODIGY_WD_01](https://github.com/mehul/PRODIGY_WD_01)
+📁 **GitHub Repository:** [PRODIGY_WD_01](https://github.com/mehul00000/PRODIGY_WD_01)
 
 ---
 
