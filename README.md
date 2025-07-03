@@ -84,4 +84,4 @@ Netlify for free hosting
 
 👨‍💻 Developer
 Name: mehul00000
-Email: mehul123@gmail.com
+Email: mehulsharma31253@gmail.com
