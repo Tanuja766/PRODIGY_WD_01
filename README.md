@@ -39,7 +39,7 @@ A sleek and modern **responsive landing page** designed using HTML, CSS, and Jav
 ## 📸 Screenshots
 
 <!-- Add real screenshots stored in your repo -->
-<img src="https://github.com/HENRY-AIFST/PRODIGY_WD_01/blob/main/assets/screenshot.png" alt="Landing Page Screenshot" width="600"/>
+<img src="https://github.com/HENRY-AIFST/PRODIGY_WD_01/blob/main/dist/assets/Screenshot.png" alt="Landing Page Screenshot" width="600"/>
 
 ---
 
